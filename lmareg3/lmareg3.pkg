@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'lmareg3': Overall System Autocorrelation Tests after (3SLS-SURE) Regressions Use lmareg3 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F lmareg3.ado
+F lmareg3.dlg
+F lmareg3.sthlp
