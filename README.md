@@ -1,6 +1,8 @@
 # lmareg3
 Overall System Autocorrelation Tests after (3SLS-SURE) Regressions Use lmareg3 With STATA 19
 
+https://www.youtube.com/watch?v=ulUsC3yJQuY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
